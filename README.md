@@ -19,6 +19,6 @@ func GetBio() Bio {
 		"- 👯 I’m looking to collaborate on": "Python, related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "",
+		"- 📫 How to reach me:                "https://github.com/prayagpvn/prayagpvn.git":              "",
 	}
 }
