@@ -44,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://github.com/prayagpvn/prayagp.git/"><img alt="Website"></a>
+<a href="https://github.com/prayagpvn/prayagp.git/"><img alt="Website"src="https://github.com/prayagpvn/prayagp.git/"</a>
 
 </p>
 
